@@ -23,3 +23,6 @@ Generate a  random cifar10 picture created with a mosaic of pictures from the sa
 > 2. then the Jupyter notebook cifar10_mosaic.ipynb
 
 ![horse-mosaic](./horse-mosaic.png?raw=true "horse-mosaic")
+
+
+Test modif
